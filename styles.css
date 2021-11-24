@@ -1,0 +1,16 @@
+body {
+    font-family: cursive;
+    font-size: 360px;
+
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.name {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: rgb(35, 124, 202);
+}
